@@ -1,4 +1,4 @@
-🛠️ Couteau - Caja de Herramientas Digital
+# 🛠️ Couteau - Caja de Herramientas Digital
 Una aplicación móvil multifuncional desarrollada con Ionic + Vue 3 que combina diversas herramientas útiles en un solo lugar.
 
 https://img.shields.io/badge/Ionic-3880FF?style=for-the-badge&logo=ionic&logoColor=white
@@ -200,7 +200,7 @@ Este proyecto está bajo la Licencia MIT - ver el archivo LICENSE.md para detall
 👨‍💻 Desarrollador
 Patryck
 
-GitHub: @jpatryck04
+GitHub: jpatryck04
 
 Email: patryckyandelljimenez@gmail.com
 
