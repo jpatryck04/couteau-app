@@ -139,7 +139,7 @@ const firstName = ref('Patryck Yandell'); // Tu nombre
 const lastName = ref('Jimenez Ogando'); // Tu apellido
 const email = ref('patryckyandelljimenez@gmail.com'); // Tu email
 const phone = ref('+1 (829) 429-1048'); // Tu teléfono
-const githubUrl = ref('https://github.com/tuusuario/couteau-app'); // URL de tu repositorio
+const githubUrl = ref('https://github.com/jpatryck04/couteau-app.git'); // URL de tu repositorio
 const apkUrl = ref('https://drive.google.com/file/d/1Bk2vS-nEncqNbji1Zl-j9NhnV_3_cP48/view?usp=sharing'); // URL de tu APK
 
 const fullName = computed(() => `${firstName.value} ${lastName.value}`);
